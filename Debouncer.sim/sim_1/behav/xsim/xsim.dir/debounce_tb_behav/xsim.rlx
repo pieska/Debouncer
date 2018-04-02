@@ -1,0 +1,12 @@
+
+{ 
+    crc :  8128012642472330462  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 36c9f18dbe394e45a0a7776dd5b0fcf9 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot debounce_tb_behav xil_defaultlib.debounce_tb" , 
+    buildDate : "Jan 30 2018" , 
+    buildTime : "15:35:49" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/debounce_tb_behav/xsimk\"   \"xsim.dir/debounce_tb_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/debounce_tb_behav/obj/xsim_1.lnx64.o\" \"/home/pharaoh/Xilinx/Vivado/2017.4/lib/lnx64.o/librdi_simulator_kernel.so\" \"/home/pharaoh/Xilinx/Vivado/2017.4/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

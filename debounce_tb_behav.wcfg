@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="debounce_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="debounce_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="75000000000001fs"></ZoomEndTime>
+      <Cursor1Time time="75000000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject type="logic" fp_name="/debounce_tb/clk_sim">
+      <obj_property name="ElementShortName">clk_sim</obj_property>
+      <obj_property name="ObjectShortName">clk_sim</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/debounce_tb/raw_sim">
+      <obj_property name="ElementShortName">raw_sim</obj_property>
+      <obj_property name="ObjectShortName">raw_sim</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/debounce_tb/deb_sim">
+      <obj_property name="ElementShortName">deb_sim</obj_property>
+      <obj_property name="ObjectShortName">deb_sim</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/debounce_tb/clkp">
+      <obj_property name="ElementShortName">clkp</obj_property>
+      <obj_property name="ObjectShortName">clkp</obj_property>
+   </wvobject>
+   <wvobject fp_name="divider57" type="divider">
+   </wvobject>
+   <wvobject type="logic" fp_name="/debounce_tb/dut/clk">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/debounce_tb/dut/raw">
+      <obj_property name="ElementShortName">raw</obj_property>
+      <obj_property name="ObjectShortName">raw</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/debounce_tb/dut/deb">
+      <obj_property name="ElementShortName">deb</obj_property>
+      <obj_property name="ObjectShortName">deb</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/debounce_tb/dut/debounce_state">
+      <obj_property name="ElementShortName">debounce_state</obj_property>
+      <obj_property name="ObjectShortName">debounce_state</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/debounce_tb/dut/s">
+      <obj_property name="ElementShortName">s</obj_property>
+      <obj_property name="ObjectShortName">s</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/debounce_tb/dut/cntr">
+      <obj_property name="ElementShortName">cntr</obj_property>
+      <obj_property name="ObjectShortName">cntr</obj_property>
+   </wvobject>
+   <wvobject type="other" fp_name="/debounce_tb/dut/stable_clocks">
+      <obj_property name="ElementShortName">stable_clocks</obj_property>
+      <obj_property name="ObjectShortName">stable_clocks</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:31:13 MST 2018
+# IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+# Start of session at: Sun Apr  1 17:08:08 2018
+# Process ID: 18210
+# Current directory: /home/pharaoh/Projekte/FPGA/Xilinx/Debouncer/Debouncer.runs/synth_1
+# Command line: vivado -log debounce.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source debounce.tcl
+# Log file: /home/pharaoh/Projekte/FPGA/Xilinx/Debouncer/Debouncer.runs/synth_1/debounce.vds
+# Journal file: /home/pharaoh/Projekte/FPGA/Xilinx/Debouncer/Debouncer.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source debounce.tcl -notrace
