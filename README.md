@@ -1,2 +1,2 @@
 # Debouncer
-Debouncer
+single-signal debouncer
